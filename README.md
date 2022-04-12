@@ -1,1 +1,1 @@
-### A Deep Learning based method for Motion Prediction of Traffic Agents for Autonomous Vehicles
+### Data Driven CNN Based Method for Motion Prediction of Traffic Agents 
