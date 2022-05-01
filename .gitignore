@@ -1,0 +1,7 @@
+# dataset
+sample.zarr/
+semantic_map/
+
+
+*.ipynb_checkpoints/
+
